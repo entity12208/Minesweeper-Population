@@ -2,7 +2,6 @@
 # Single pygame window showing a population of Minesweeper AIs learning together.
 # Each thumbnail displays the agent's current rank and points (score).
 #
-# Save and run: python minesweeper_viz_population_rank.py
 # Requirements: pip install pygame
 
 import pygame
@@ -627,3 +626,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
